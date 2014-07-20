@@ -1,0 +1,159 @@
+body {
+	background-color: #000;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(../assets/background2.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+#wrapper {
+	font-family: Arial, Verdana, Geneva, sans-serif;
+	text-align: left;
+	margin: 0 auto;
+	padding: 0px;
+	width: 1000px;
+	color: #FFF;
+}
+#header {
+	margin: 0px;
+	padding: 0px;
+	height: 240px;
+	display: block;
+	background-image: url(../assets/Banner.gif);
+	width: 1000px;
+}
+
+#contentWrapper {
+	background-color: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+#top {
+	background-color: none;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(../assets/top.png);
+	height: 65px;
+}
+
+#center {
+	margin: 0px;
+	padding: 0px;
+	background-image: url(../assets/center.png);
+	background-repeat: repeat-y;
+	height: 400px;
+}
+#bottom {
+	background-color: none;
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	height: 55px;
+	background-image: url(../assets/bottom.png);
+}
+
+#mainContent {
+	background-color: none;
+	margin: 0px;
+	padding: 0px;
+	width: 630px;
+	float: left;
+	margin-left: 30px;
+}
+
+#sidebar {
+	background-color: none;
+	width: 300px;
+	float: right;
+	margin-right: 30px;
+	padding: 0px;
+}
+
+
+
+#footer {
+	margin: 0px;
+	padding: 30px;
+	height: 50px;
+	clear: both;
+	background-image: url(../assets/footer.png);
+	background-color: none;
+	font-size: 10px;
+}
+#wrapper #contentWrapper #top h1 {
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: uppercase;
+	margin: 0px;
+	padding: 0px;
+	font-size: 24px;
+	position: relative;
+	left: -0px;
+	top: 20px;
+	text-align: center;
+	width: 400px;
+}
+a:link {
+	color: #00F;
+}
+a:visited {
+	color: #00F;
+}
+a:hover {
+	color: #0F0;
+}
+a:active {
+	color: #0FF;
+}
+.difficulty_star1 {
+	float: right;
+	height: 35px;
+	width: 125px;
+	background-image: url(../assets/difficulty%20star%201.png);
+}
+.difficulty_star2 {
+	background-image: url(../assets/difficulty%20star%202.png);
+	float: right;
+	height: 35px;
+	width: 125px;
+}
+.difficulty_star3 {
+	background-image: url(../assets/difficulty%20star%203.png);
+	float: right;
+	height: 35px;
+	width: 125px;
+}
+.octergonWirePipe {
+	height: 810px;
+	width: 250px;
+}
+.sidebar_animation   {
+	height: 350px;
+	width: 300px;
+}
+#mainContent table    {
+	background-color: #999;
+}
+#mainContent table tr th    {
+	background-color: #000;
+}
+#mainContent table tr td    {
+	font-size: 12px;
+	background-color: #000;
+}
+#mainContent table tr td a h2    {
+	font-size: 16px;
+	width: 200px;
+}
+.clock {
+	margin: 0px;
+	padding: 0px;
+	height: 150px;
+	width: 200px;
+	position: fixed;
+	top: 0px;
+	clip: rect(0px,auto,auto,auto);
+}

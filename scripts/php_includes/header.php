@@ -1,0 +1,1 @@
+<a href="/index.php"><img src="/assets/transparent.png" width="1000" height="240" /></a>

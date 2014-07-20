@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+.videoLink {
+	//background-image: url(../assets/video_link_box_link.png);
+	background-repeat: no-repeat;
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	height: 260px;
+	width: 620px;
+	text-decoration: none;
+}
+
+.videoLink:link {
+	background-image:url(../assets/video_link_box_link.png)
+}
+
+.videoLink:hover {
+	background-image:url(../assets/video_link_box_hover.png)
+}
+
+.thumbnail {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	height: 146px;
+	width: 260px;
+	position: relative;
+	top: 34px;
+	left: 34px;
+	overflow: hidden;
+}
+.title {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	width: 255px;
+	height: 42px;
+	overflow: hidden;
+	left: 315px;
+	bottom: 105px;
+	position: relative;
+	color: #FFF;
+	font-size: 18px;
+	text-decoration: none;
+}
+.decription  {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	height: 115px;
+	width: 270px;
+	position: relative;
+	left: 312px;
+	bottom: 90px;
+	color: #FFF;
+	font-size: 12px;
+	overflow: hidden;
+}
+.Vinfo {
+	font-size: 12px;
+	color: #0bf;
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	position: relative;
+	left: 35px;
+	bottom: 110px;
+	width: 270px;
+}
