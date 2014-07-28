@@ -85,7 +85,7 @@
           			</p>
           			<h4>welcome</h4>
           			<p>
-                    	Welcome to borris123beta.dylanmadisetti.com, the number one  place to keep in touch with me (
+                    	Welcome to borris123psnbeta.appspot.com/, the number one  place to keep in touch with me (
                         <a href="http://www.youtube.com/user/Borris123PSN?feature=mhee#p/u/32/Aq3ngHWO0tU">Borris123PSN</a>
                         ) and my activity on the web. Watch videos,  tutorials, play games and more.
                     </p>
